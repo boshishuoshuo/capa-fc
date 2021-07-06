@@ -1,0 +1,15 @@
+.Footbar {
+    width: 100%;
+    background-color: rgb(26,67,143);
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding: 10px 0;
+    box-shadow: 0 2px 1px #ccc;
+    margin: auto;
+}
+
+.Contact {
+    color: white;
+    font-size: 0.95em;
+}
