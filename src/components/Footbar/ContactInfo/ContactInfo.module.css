@@ -1,0 +1,8 @@
+.ContactInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.Content {
+   margin-bottom: 10px;
+}

@@ -12,4 +12,11 @@
 .Contact {
     color: white;
     font-size: 0.95em;
+    width: 200px;
+}
+
+.Copyright {
+    color: white;
+    font-size: 0.9em;
+    width: 200px
 }
