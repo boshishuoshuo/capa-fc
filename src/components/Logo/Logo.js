@@ -1,6 +1,6 @@
 import React from 'react';
 
-import capafcLogo from '../../assets/images/capafc_rec.png';
+import capafcLogo from '../../assets/images/capafc_rec1.png';
 import classes from './Logo.module.css';
 
 const logo = (props) => (
