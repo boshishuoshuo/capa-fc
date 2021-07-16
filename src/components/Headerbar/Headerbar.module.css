@@ -7,6 +7,7 @@
     padding: 0 20px;
     box-sizing: border-box;
     background-color: #fbfbfb;
+    overflow: hidden;
 }
 
 .Logo {
@@ -17,4 +18,10 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 20px;
+}
+
+@media (max-width: 550px) {
+    .Title {
+        display: none;
+    }
 }
